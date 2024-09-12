@@ -44,6 +44,17 @@ h1 {
   padding: 2.4rem 0;
 }
 
+h3.heading {
+  text-align: center;
+  background-color: #f4a226;
+  font-family: "Monoton";
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  word-spacing: 15px;
+  padding: 2px;
+}
+
 .add-form {
   background-color: #e5771f;
   padding: 2.8rem 0;
